@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureMessageQueues.Publisher", "AzureMessageQueues.Publisher\AzureMessageQueues.Publisher.csproj", "{712B1A86-695F-4AF4-8111-345813042B84}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureMessageQueues.App", "AzureMessageQueues.Publisher\AzureMessageQueues.App.csproj", "{712B1A86-695F-4AF4-8111-345813042B84}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureMessageQueues.Core", "AzureMessageQueues.Core\AzureMessageQueues.Core.csproj", "{4450309B-4C9D-41CD-A9E2-2F7E060EB1EF}"
 EndProject

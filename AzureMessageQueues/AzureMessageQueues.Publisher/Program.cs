@@ -63,7 +63,7 @@ namespace AzureMessageQueues.Publisher
                 .Build();
 
             // Add access to generic IConfigurationRoot
-            serviceCollection.AddSingleton<IConfigurationRoot>(configuration);
+            serviceCollection.AddSingleton<IConfiguration>(configuration);
 
             // Add app
             serviceCollection.AddTransient<App>();
